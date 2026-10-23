@@ -1,0 +1,10 @@
+{
+  "description": "Explore personalized book recommendations with user comments and suggestions in a friendly, interactive blog designed for book lovers and friends.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
